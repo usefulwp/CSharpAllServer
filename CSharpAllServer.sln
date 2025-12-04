@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpServer", "UdpServer\UdpServer.csproj", "{556D34F7-C38C-430B-B471-D28770CD6BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServer", "TcpServer\TcpServer.csproj", "{B64C3601-C61E-477C-AC9C-0AB4B8DB95F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556D34F7-C38C-430B-B471-D28770CD6BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556D34F7-C38C-430B-B471-D28770CD6BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556D34F7-C38C-430B-B471-D28770CD6BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556D34F7-C38C-430B-B471-D28770CD6BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64C3601-C61E-477C-AC9C-0AB4B8DB95F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64C3601-C61E-477C-AC9C-0AB4B8DB95F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64C3601-C61E-477C-AC9C-0AB4B8DB95F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64C3601-C61E-477C-AC9C-0AB4B8DB95F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F617BE-2666-4A53-BEEB-F1089DE10F32}
+	EndGlobalSection
+EndGlobal
